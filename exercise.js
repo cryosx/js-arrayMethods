@@ -26,7 +26,8 @@ console.log(hof);
 
 var shoppingList = ["cool ranch doritos", "kings hawaiian sweet bread", "peanut butter oreos", "fruit loops cereal"];
 
-
+shoppingList.push("Hendricks gin");
+console.log(shoppingList);
 
 
 /*The array.reverse() reverses the order of the element of an array in place - the first becomes the last and the last becomes the first*/
