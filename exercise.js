@@ -36,6 +36,8 @@ console.log(shoppingList);
 
 var yoda = ["try", "no", "is", "there", "not", "do", "or", "do"];
 
+yoda = yoda.reverse();
+console.log(yoda);
 
 
 /*The array.shift() removes the first element from an array and returns that element*/
